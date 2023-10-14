@@ -8,7 +8,7 @@ function App() {
      
       <Card shadow='lg'>
         <Text italic>
-          aaa
+          aaahek
         </Text>
       </Card>
     </>
